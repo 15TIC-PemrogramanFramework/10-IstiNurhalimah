@@ -1,2 +1,6 @@
-# 10-IstiNurhalimah
-Judul Project dan Abstrak (bagian I.1)
+# crud-generator
+Full Project of Codeigniter CRUD Generater based on HarviaCode CRUD Generator
+
+Simply access http://localhost/socianovation
+
+Follow the guide and you will be good to start.
