@@ -49,7 +49,7 @@ class Supply extends CI_Controller
 
 	function delete($id)
 	{
-		$this->Supplier_model->hapus_data($id);
+		$this->Supply_model->hapus_data($id);
 		$this->session->set_flashdata("supplier", "<div class=\"col-md-12\"><div class=\"alert alert-danger\" id=\"alert\">Data berhasil dihapus!!</div></div>");
                 redirect('supply');
 	}
