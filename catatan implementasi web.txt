@@ -43,3 +43,5 @@ kekurangan web ini :
 	artinya harus menambahkan nama barang terlebih dahulu di tabel barang.
 4. melakukan penambahan barang yg di supply dari supplier tidak bisa dilakukan jika nama supplier tidak ada di tabel supplier.
 	artinya harus menambahkan nama supplier terlebih dahulu di tabel supplier.
+	
+	RACHMACANTIK:)
