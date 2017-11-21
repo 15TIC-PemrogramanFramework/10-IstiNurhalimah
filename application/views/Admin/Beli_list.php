@@ -39,7 +39,7 @@
 						<td><?php echo $row->nama_barang; ?></td>
 						<td><?php echo $row->jumlah_beli; ?></td>
 						<td>
-							<?php echo anchor(site_url('Index.php/Beli/delete/'.$row->id_beli),
+							<?php echo anchor(site_url('Beli/delete/'.$row->id_beli),
 								'<i class="fa fa-trash-o" aria-hidden="true"></i>',
 								'class="btn btn-danger"'); ?>
 							</td>
